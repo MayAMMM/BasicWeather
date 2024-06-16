@@ -1,2 +1,4 @@
 
-<img width="828" alt="Screenshot 2024-03-01 at 11 15 04" src="https://github.com/MayAMMM/BasicWeather/assets/104266442/25200c6f-2464-4806-9d85-c42374ad3e25">
+![image](https://github.com/MayAMMM/BasicWeather/assets/104266442/da34f075-b8b6-4973-877e-2bf2a64f13e5)
+SheCodes Bootcamp playing around with the API.
+Everyone has a weather app, just to show but ofcourse come back and improve it.
